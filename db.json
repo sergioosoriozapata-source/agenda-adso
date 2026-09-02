@@ -13,6 +13,13 @@
       "correo": "123123",
       "etiqueta": "Novato",
       "id": "mbxAHXtZBbw"
+    },
+    {
+      "nombre": "luis",
+      "telefono": "3213324432",
+      "correo": "dsadada@gmail.com",
+      "etiqueta": "",
+      "id": "JOPxHZO2Q_g"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
