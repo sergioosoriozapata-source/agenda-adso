@@ -20,6 +20,20 @@
       "correo": "dsadada@gmail.com",
       "etiqueta": "",
       "id": "JOPxHZO2Q_g"
+    },
+    {
+      "nombre": "Andres",
+      "telefono": "3123423432",
+      "correo": "Andres@gmail.com",
+      "etiqueta": "",
+      "id": "U9vKL_lComc"
+    },
+    {
+      "nombre": "juan",
+      "telefono": "3758934790",
+      "correo": "juan@gmail.com",
+      "etiqueta": "",
+      "id": "NthqeHp-6yM"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
